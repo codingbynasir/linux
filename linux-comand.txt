@@ -1,4 +1,4 @@
-Change permission of directory in linux
+#Change permission of directory in linux
       sudo chmod 777 /opt/lampp/htdocs
       
 here 777 means, you can read write any file or folder.
